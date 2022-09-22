@@ -1,11 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Z-T-H&fontSize=60)
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&animation=fadeIn&section=header&text=Z-T-H&fontSize=60)
 ### Hi! Stay a moment! 👋
 ### Hope you are in a good mood today!! ✨✨
 ---
-![](https://github-readme-stats.vercel.app/api?username=ZTH5&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTH7&layout=compact&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=83DCB6)
 
 <!--
 **ZTH5/ZTH5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=83DCB6
 
 Here are some ideas to get you started:
 
