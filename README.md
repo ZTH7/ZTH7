@@ -2,9 +2,9 @@
 ### Hi! Stay a moment! 👋
 ### Hope you are in a good mood today!! ✨✨
 ---
-![](https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&title_color=7B70FF&icon_color=7B70FF&text_color=7B70FF&bg_color=83DCB6)
+![](https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&title_color=656CFF&icon_color=656CFF&text_color=656CFF&bg_color=83DCB6)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTH7&layout=compact&show_icons=true&title_color=7B70FF&icon_color=7B70FF&text_color=7B70FF&bg_color=83DCB6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTH7&layout=compact&show_icons=true&title_color=656CFF&icon_color=656CFF&text_color=656CFF&bg_color=83DCB6)
 
 <!--
 **ZTH5/ZTH5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
