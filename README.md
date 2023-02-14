@@ -2,15 +2,15 @@
 ### Hi! Stay a moment! 👋
 ### Hope you are in a good mood today!! ✨✨
 ---
-![](https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&title_color=656CFF&icon_color=656CFF&text_color=656CFF&bg_color=83DCB6)
+![](https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&theme=tokyonight&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTH7&layout=compact&show_icons=true&title_color=656CFF&icon_color=656CFF&text_color=656CFF&bg_color=83DCB6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTH7&show_icons=true&theme=tokyonight&count_private=true)
 
 <!--
 **ZTH5/ZTH5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=83DCB6
-
+https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&theme=tokyonight&count_private=true
+https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&title_color=656CFF&icon_color=656CFF&text_color=656CFF&bg_color=83DCB6
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
