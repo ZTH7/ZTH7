@@ -1,9 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&animation=fadeIn&section=header&text=Z-T-H&fontSize=60)
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Z-T-H&fontSize=50)
 ### Hi! Stay a moment! 👋
 ### Hope you are in a good mood today!! ✨✨
 ---
 ![](https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&theme=tokyonight&count_private=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTH7&show_icons=true&theme=tokyonight&count_private=true)
 
 <!--
