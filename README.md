@@ -3,7 +3,7 @@
 ### Hope you are in a good mood today!! ✨✨
 ---
 ![](https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&theme=tokyonight&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTH7&show_icons=true&theme=tokyonight&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTH7&layout=compact&langs_count=10&show_icons=true&theme=tokyonight&count_private=true)
 
 <!--
 **ZTH5/ZTH5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
