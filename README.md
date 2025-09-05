@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Mr.%20Z&fontSize=50&fontAlignY=32)
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Lucas&fontSize=50&fontAlignY=32)
 ### Hi! Stay a moment! 👋
 ### Hope you are in a good mood today!! ✨✨
 ---
