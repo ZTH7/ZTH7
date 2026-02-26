@@ -2,11 +2,11 @@
 ### Hi! Stay a moment! 👋
 ### Hope you are in a good mood today!! ✨✨
 ---
-![](https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&theme=tokyonight&line_height=24&card_width=450&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTH7&layout=compact&langs_count=8&hide=Jupyter%20Notebook,SCSS,Tcl&show_icons=true&theme=tokyonight&count_private=true)
+![](https://stats.zdaily.net/api?username=ZTH7&show_icons=true&theme=tokyonight&line_height=24&card_width=450&count_private=true)
+![](https://stats.zdaily.net/api/top-langs/?username=ZTH7&layout=compact&langs_count=8&hide=Jupyter%20Notebook,SCSS,Tcl&show_icons=true&theme=tokyonight&count_private=true)
 
 <!--
-**ZTH5/ZTH5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZTH7/ZTH7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&theme=tokyonight&count_private=true
 https://github-readme-stats.vercel.app/api?username=ZTH7&show_icons=true&title_color=656CFF&icon_color=656CFF&text_color=656CFF&bg_color=83DCB6
